@@ -10,3 +10,4 @@ As a BA, I made the following files:
 - Project Description - overview of the project
 - Sprint Plan & Sprint Backlog & Product Backlog - including 16 basic functions of the website, divided into three sprints according to the Agile process and labeled with the corresponding person in charge
 - Minutes of meeting - recording the minutes of meetings with customers and internal team meetings
+- Testcases - check and write basic testcases
