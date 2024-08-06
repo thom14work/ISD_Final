@@ -9,4 +9,4 @@ Due to the limited time of the course, the system was created to meet the most b
 As a BA, I made the following files:
 - Project Description - overview of the project
 - Sprint Plan & Sprint Backlog & Product Backlog - including 16 basic functions of the website, divided into three sprints according to the Agile process and labeled with the corresponding person in charge
-- Minute of meeting - recording the minutes of meetings with customers and internal team meetings
+- Minutes of meeting - recording the minutes of meetings with customers and internal team meetings
